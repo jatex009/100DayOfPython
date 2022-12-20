@@ -1,0 +1,9 @@
+amazon.com | example@gmail.com | 1234
+abdi.com | example@gmail.com | 9999
+abdi.com | example@gmail.com | 8888
+hassan.com | example2@gmail.com | 5555
+ | example@gmail.com | 
+ | example@gmail.com | 
+ | example@gmail.com | 
+ | example@gmail.com | 
+silver.com | example@gmail.com | 4567
