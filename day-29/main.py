@@ -13,6 +13,7 @@ symbols = ['!', '#', '$', '%', '^', '&', '*', '(', ')', '+']
 
 print("Welcome to the PyPassword generator!")
 
+
 # new_item = [new_item for item in list]
 # using list comprehension
 password_letter = [choice(letters) for _ in range(randint(8, 10)) ]
